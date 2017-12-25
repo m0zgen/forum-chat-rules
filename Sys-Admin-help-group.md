@@ -26,3 +26,5 @@
 * ЧСВ - ЗЛО, помни об этом
 * Люди созданы для того, что бы помогать друг другу
 * Sys-Admins POWER! Peace! :)
+
+[Ссылка на Sys-Admin Help группу](https://telegram.me/sysadm_in)
