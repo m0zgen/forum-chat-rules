@@ -2,7 +2,7 @@
 * Помощь и развитие
 * Тебе помогли решить проблему - помоги другим
 * Не помогли решить проблему - реши ее и поделись решением
-* Есть вопросы? См. первый пункт списка
+* Есть вопросы? См. первый / последующие пункты списка
 ## Правила Sys-Admin Help группы
 Исходят из основных [правил Форума](https://github.com/m0zgen/forum-chat-rules/blob/master/Forum-rules.md)
 ## Прежде чем задать вопросы
@@ -29,4 +29,4 @@
 * Sys-Admins POWER! Peace! :)
 ## Ссылки
 * [Ссылка на Sys-Admin Help группу](https://telegram.me/sysadm_in)
-* [Доп. инфо о том, как задавать вопросы](http://www.catb.org/esr/faqs/smart-questions.html)
+* [Доп. инфо о том, как задавать вопросы](http://maddog.sitengine.ru/smart-question-ru.html)
