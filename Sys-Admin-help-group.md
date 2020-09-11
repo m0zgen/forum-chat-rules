@@ -55,4 +55,4 @@
 * [Доп. инфо о том, как задавать вопросы](http://maddog.sitengine.ru/smart-question-ru.html)
 
 ## Полезные ссылки
-* [Поиск в Google для самых маленьких](https://forum.sys-adm.in/t/poisk-v-google-dlya-samyh-malenkih/7276)
+* [Поиск в Google для самых маленьких](https://forum.sys-adm.in/t/poisk-v-google-dlya-samyh-malenkih/7276) by [YanFisyuk](https://forum.sys-adm.in/u/yanfisyuk)
