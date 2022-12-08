@@ -52,7 +52,7 @@
 * Люди созданы для того, что бы помогать друг другу
 * Sys-Admins POWER! Peace! :)
 ## Ссылки
-* [Ссылка на Sys-Admin Help группу](https://telegram.me/sysadm_in)
+* [Sys-Admin Help группа](https://telegram.me/sysadm_in)
 * [Доп. инфо о том, как задавать вопросы](http://maddog.sitengine.ru/smart-question-ru.html)
 
 ## Полезные ссылки
