@@ -31,6 +31,6 @@
 * Posts can contain links to another publics, social networks in case of mutual exchange of posts
 * https://lab.sys-adm.in/en/disclaimer/
 
-## Channel links
+## Channel link
 * https://t.me/sysadm_in_channel
 
