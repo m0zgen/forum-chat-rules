@@ -26,6 +26,17 @@
 * Posts may contain links to websites with relevant posts content
 * All posts will moderate and edit at the discretion of the moderator with subsequent approval
 
+## Minimal Quality Requirements
+
+* Posts shall be contains "Title" and "URL" (except notify types messages)
+* Target websites should be:
+  * Without "iframes"
+  * Information described in text format (not big picture with text)
+  * Uses valid web standards
+  * Adaptive layouts 
+  * It is not - dorks, stub and same etc pages
+
+
 ## Disclaimer Statement / Exclusions
 
 * Posts can contain links to another publics, social networks in case of mutual exchange of posts
