@@ -21,21 +21,27 @@
 
 ## Third party posts/communications
 
-* All posts will format to "channel format"
-* Posts shouldn't link to another public's, social networks and etc
-* Posts may contain links to websites with relevant posts content
-* All posts will moderate and edit at the discretion of the moderator with subsequent approval
+* ### Moderate
+  * All posts will format to "channel format"
+  * Posts shouldn't link to another public's, social networks and etc
+  * Posts may contain links to websites with relevant posts content
+  * All posts will moderate and edit at the discretion of the moderator with subsequent approval
 
-## Minimal Quality Requirements
+* ### Minimal Quality Requirements
+  * Posts shall be contains "Title" and "URL" (except notify types messages)
+  * Target websites should be:
+    * Without "iframes"
+    * Information described in text format (not big picture with text)
+    * Uses valid web standards
+    * Adaptive layouts 
+    * It is not - dorks, stub and same etc pages
 
-* Posts shall be contains "Title" and "URL" (except notify types messages)
-* Target websites should be:
-  * Without "iframes"
-  * Information described in text format (not big picture with text)
-  * Uses valid web standards
-  * Adaptive layouts 
-  * It is not - dorks, stub and same etc pages
-
+* ### Publication Format
+  * Possible publication format - 4/48 
+  * Donation
+    * Depended from post context
+      * Benefit suggestions for subscribers 
+      * And/Or donate ~40$
 
 ## Disclaimer Statement / Exclusions
 
