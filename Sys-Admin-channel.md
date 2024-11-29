@@ -41,7 +41,7 @@
   * Donation
     * Depended from post context
       * Benefit suggestions for subscribers 
-      * And/Or donate ~40$
+      * And/Or donate ~50$
 
 ## Disclaimer Statement / Exclusions
 
